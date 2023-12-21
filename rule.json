@@ -1,0 +1,10 @@
+{
+    "queue-master": 10,
+    "payment": 10,
+    "orders": 500,
+    "user": 10,
+    "front-end": 500,
+    "carts": 500,
+    "shipping": 10,
+    "catalogue": 10
+}
